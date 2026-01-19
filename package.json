@@ -24,5 +24,13 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifjahan1/Legal_advocacy_pro_web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asifjahan1/Legal_advocacy_pro_web/issues"
+  },
+  "homepage": "https://github.com/asifjahan1/Legal_advocacy_pro_web#readme"
 }

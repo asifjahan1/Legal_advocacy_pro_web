@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  frontend:
+    container_name: legal_advocacy_web
+    build: .
+    ports:
+      - "80:80" # VPS এর মেইন 80 পোর্টে চলবে
+    restart: always
