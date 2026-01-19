@@ -5,5 +5,5 @@ services:
     container_name: legal_advocacy_web
     build: .
     ports:
-      - "80:80" # VPS এর মেইন 80 পোর্টে চলবে
+      - "8081:80"
     restart: always
